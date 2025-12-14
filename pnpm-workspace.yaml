@@ -111,7 +111,7 @@ catalog:
   echarts: ^6.0.0
   element-plus: ^2.10.2
   eslint: ^9.39.1
-  eslint-config-turbo: ^2.6.1
+  eslint-config-turbo: 2.6.3
   eslint-plugin-command: ^3.3.1
   eslint-plugin-eslint-comments: ^3.2.0
   eslint-plugin-import-x: ^4.16.1
@@ -221,7 +221,7 @@ catalog:
   vue-tippy: ^6.7.1
   vue-tsc: ^3.1.4
   vuedraggable: ^4.1.0
-  vue3-print-nb: "^0.1.4"
+  vue3-print-nb: '^0.1.4'
   vue3-signature: ^0.2.4
   video.js: ^7.21.6
   vxe-pc-ui: ^4.10.22
